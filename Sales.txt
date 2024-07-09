@@ -1,0 +1,18 @@
+2024-07-02 18:59:34.198878,10,1870,['Burger', 'Pizza', 'Pasta', 'Burger', 'Salad', 'Pizza', 'Pasta', 'Burger', 'Pasta', 'Pasta']
+2024-07-02 19:02:39.451027,1,250,['Pizza']2024-07-04 11:23:34.426952,6,1150,['Pizza', 'Pizza', 'Burger', 'Pasta', 'Burger', 'Burger']
+2024-07-04 11:29:01.227868,1,150,['Burger']
+2024-07-04 11:44:22.867449,8,1320,['Burger', 'Burger', 'Pizza', 'Pasta', 'Noodles', 'Burger', 'Burger', 'Salad']
+2024-07-04 11:55:51.655583,1,200,['Pasta']
+2024-07-04 12:03:43.008935,1,350,['Bakery'].
+2024-07-04 12:07:42.149583,7,1370,['Burger', 'Burger', 'Pizza', 'Pasta', 'Burger', 'Bakery', 'Salad'].
+2024-07-04 12:12:58.646083,9,1690,['Burger', 'Burger', 'Pizza', 'Pasta', 'Salad', 'Bakery', 'Salad', 'Pasta', 'Burger'].
+2024-07-04 15:49:35.825599,4,820,['Burger', 'Burger', 'Pizza', 'Sushi'].
+2024-07-04 15:51:19.171633,6,1220,['Burger', 'Burger', 'Pizza', 'Pasta', 'Bakery', 'Salad'].
+2024-07-04 15:58:17.445048,11,2170,['Burger', 'Burger', 'Pizza', 'Pizza', 'Pasta', 'Burger', 'Pizza', 'Pasta', 'Salad', 'Pasta', 'Pizza'].
+2024-07-04 16:07:43.755060,7,1520,['Bakery', 'Pasta', 'Burger', 'Burger', 'Pasta', 'Bakery', 'Salad'].
+2024-07-04 16:10:52.107472,0,0,[].
+2024-07-04 16:39:29.237171,2,350,['Burger', 'Pasta'].
+2024-07-04 16:41:29.457688,4,1020,['Bakery', 'Bakery', 'Salad', 'Pasta'].
+2024-07-04 16:47:01.043031,1,250,['Pizza'].
+2024-07-04 16:48:00.590013,8,1620,['Burger', 'Burger', 'Burger', 'Pizza', 'Pasta', 'Bakery', 'Salad', 'Pizza'].
+2024-07-05 10:18:14.765502,11,2130,['Burger', 'Pasta', 'Bakery', 'Pasta', 'Salad', 'Salad', 'Salad', 'Burger', 'Salad', 'Bakery', 'Pizza'].
