@@ -13,7 +13,6 @@ Este repositorio contiene una serie de ejercicios prácticos que demuestran el u
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 
 ### BeautifulSoup
 
