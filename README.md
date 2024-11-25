@@ -8,6 +8,13 @@
 
 Este repositorio contiene una serie de ejercicios prácticos que demuestran el uso de las bibliotecas **BeautifulSoup** y **Selenium** de Python para la extracción de datos web, también conocido como web scraping. A través de estos ejercicios, aprenderás a implementar técnicas de scraping para recopilar datos de sitios web de manera eficiente.
 
+## Tecnologías Utilizadas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white)
+
 ### BeautifulSoup
 
 BeautifulSoup es una biblioteca de Python que facilita la extracción de datos de archivos HTML y XML. Funciona como un parser que convierte documentos en un árbol de objetos Python, permitiendo navegar y buscar a través de los datos de una manera sencilla y estructurada.
